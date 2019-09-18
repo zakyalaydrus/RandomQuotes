@@ -2,7 +2,6 @@
     "name": "mzakyalaydrus/random-quotes",
     "description": "This library will generate a random quote for you.",
     "type": "library",
-    "license": "",
     "authors": [
         {
             "name": "Mohammad Zaky Alaydrus",
