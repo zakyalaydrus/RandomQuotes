@@ -21,4 +21,8 @@ class RandomQuotes{
         return $this->getRandomQuotes();
     }
 
+    public function getLibName(){
+        return array("Random Quotes Library");
+    }
+
 }
