@@ -9,5 +9,10 @@
             "email": "zakyalaydrus@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "RandomQuotes\\": "src/"
+        }
+    },
     "require": {}
 }
