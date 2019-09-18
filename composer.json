@@ -2,11 +2,11 @@
     "name": "mzakyalaydrus/random-quotes",
     "description": "This library will generate a random quote for you.",
     "type": "library",
-    "license": "Jackdome",
+    "license": "",
     "authors": [
         {
             "name": "Mohammad Zaky Alaydrus",
-            "email": "mohammad.alaydrus@erajaya.com"
+            "email": "zakyalaydrus@gmail.com"
         }
     ],
     "autoload": {
