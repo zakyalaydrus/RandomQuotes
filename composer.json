@@ -1,6 +1,6 @@
 {
 
-    "minimum-stability" : "alpha",
+    "minimum-stability" : "stable",
     "name": "mzakyalaydrus/random-quotes",
     "description": "This library will generate random quotes for you.",
     "type": "library",
