@@ -25,4 +25,8 @@ class fitur1{
         return array("Random Quotes Library");
     }
 
+    public function getClassName(){
+        return array("fitur1");
+    }
+
 }
